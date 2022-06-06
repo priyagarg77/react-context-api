@@ -1,3 +1,3 @@
-# react-gyh3zj
+# react-context-api
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/react-gyh3zj)
+update the username value in all the places using React context api
